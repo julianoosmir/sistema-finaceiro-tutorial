@@ -89,3 +89,4 @@ C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Part
 C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

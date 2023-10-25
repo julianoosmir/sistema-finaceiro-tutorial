@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i7ykV2oxz+CjBKGCiXNmlRq1B72AcUa+pd5yRufD1xYiAKs602LY5FjB2dni/qqRevWvgQ5v/+L3Iep/QE32Xw==",
+  "dgSpecHash": "/6g+LtyaIU49w4ccqZw7jCheT8H04iho6QH4nsbT/GrYFe0fgJqzh877b6+j8jCK37l62ZoqMWB7M0M0SY6Njw==",
   "success": true,
   "projectFilePath": "C:\\Users\\julia\\Documents\\myprojects\\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.10\\microsoft.aspnetcore.cryptography.internal.7.0.10.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.10\\microsoft.aspnetcore.cryptography.keyderivation.7.0.10.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.10\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.10.nupkg.sha512",
