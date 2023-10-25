@@ -1,0 +1,12 @@
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\julia\Documents\myprojects\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\Helpers\obj\Debug\net7.0\ref\Helpers.dll
